@@ -1,0 +1,12 @@
+langchain
+scikit-learn
+fastapi
+uvicorn[standard]
+typing
+pydantic
+python-dotenv
+langchain_community
+langchain-google-genai
+chromadb
+langchain_chroma
+langchain_
