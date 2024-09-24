@@ -9,4 +9,3 @@ langchain_community
 langchain-google-genai
 chromadb
 langchain_chroma
-langchain_

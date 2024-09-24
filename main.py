@@ -5,13 +5,12 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from pydantic import BaseModel
 
-from chatbot import chatbot 
+from chatbot.chatbot import chatbot 
 
 app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-# Set up Jinja2 templates
 templates = Jinja2Templates(directory="templates")
 
 class ChatMessage(BaseModel):

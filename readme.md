@@ -1,9 +1,14 @@
 Personal Document ChatBot User Manual
+
 Version: 1.0
+
 Date: September 22, 2024
+
 Developer: Anuj Nanda Gorkhali Shrestha
 
+
 Table of Contents
+
 Introduction
 System Requirements
 Installation Guide
@@ -22,6 +27,7 @@ Operating System: Windows, macOS, or Linux
 Python Version: Python 3.8 or above
 Memory: At least 8GB of RAM (recommended)
 Internet Connection: Required for API calls to the LLM
+
 3. Installation Guide
 Step 1: Clone the Repository
 To get started, clone the repository containing the chatbot code. Open a terminal and run the following command:
@@ -55,6 +61,12 @@ Document Retrieval: The chatbot can search through and retrieve information from
 Appointment Booking: Users can schedule appointments using natural language commands like “Book an appointment for next Monday.”
 
 Custom Tools: The chatbot has built-in tools, such as one for booking appointments, and can be extended with new functionalities.
+
+![alt text](screenshots/image.png)
+
+![alt text](screenshots/image-1.png)
+
+![alt text](screenshots/image-2.png)
 
 5. Using the Chatbot
 General Interaction
