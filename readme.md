@@ -1,14 +1,14 @@
-Personal Document ChatBot
+## Personal Document ChatBot
 
 Version: 1.0
 
 Date: September 22, 2024
 
 
-1. Introduction
+### 1. Introduction
 This user manual is designed to help you use the conversational chatbot powered by the Langchain framework and integrated with a large language model (LLM). The chatbot can answer questions, retrieve information from documents, and assist with booking appointments.
 
-2. System Requirements
+### 2. System Requirements
 To use the chatbot system, ensure that your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
@@ -16,7 +16,7 @@ To use the chatbot system, ensure that your system meets the following requireme
 - Memory: At least 8GB of RAM (recommended)
 - Internet Connection: Required for API calls to the LLM
 
-3. Installation Guide
+### 3. Installation Guide
 - Step 1: Clone the Repository
   - To get started, clone the repository containing the chatbot code. Open a terminal and run the following command:
 
@@ -49,7 +49,7 @@ To use the chatbot system, ensure that your system meets the following requireme
 
              python chatbot.py
 
-4. Key Features
+### 4. Key Features
 - Conversational Context: The chatbot maintains the context of your conversations, ensuring a more natural, flowing interaction.
 
 - Document Retrieval: The chatbot can search through and retrieve information from uploaded documents (e.g., .txt files).
@@ -58,13 +58,7 @@ To use the chatbot system, ensure that your system meets the following requireme
 
 - Custom Tools: The chatbot has built-in tools, such as one for booking appointments, and can be extended with new functionalities.
 
-![alt text](screenshots/image.png)
-
-![alt text](screenshots/image-1.png)
-
-![alt text](screenshots/image-2.png)
-
-5. Using the Chatbot
+### 5. Using the Chatbot
 - General Interaction
   - To start a conversation with the chatbot, type a message and press enter. The chatbot will respond with helpful information or a follow-up question. Examples of questions you can ask:
 
@@ -80,7 +74,7 @@ To use the chatbot system, ensure that your system meets the following requireme
 -Form Handling
   -You can also enter personal details like name, phone, and email in a conversational form. The chatbot will guide you through the process, asking for each field in turn.
 
-6. Troubleshooting
+### 6. Troubleshooting
 
 Common Issues
 - Issue 1: API Key Not Found
@@ -97,8 +91,18 @@ Common Issues
 
 - Debugging
   - To enable verbose logging, you can modify the agent_executor to include verbose=True and inspect what actions the chatbot is taking when processing inputs.
+ 
 
-7. Contact Support
+### 7. Screenshots
+
+  ![alt text](screenshots/image.png)
+
+  ![alt text](screenshots/image-1.png)
+
+  ![alt text](screenshots/image-2.png)
+
+
+### 8. Contact Support
 
  If you encounter any issues or need further assistance, please contact me:
 
