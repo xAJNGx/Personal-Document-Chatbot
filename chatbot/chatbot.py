@@ -120,7 +120,7 @@ Observation: the result of the action
 Thought: I now know the final answer
 Final Answer: the final answer to the original input question
 
-If the user mentions booking an appointment or scheduling, always use the BookAppointment tool.IF thereis no date then ask the user for date.
+If the user mentions booking an appointment or scheduling, always use the BookAppointment tool.IF there is no date then ask the user for date.
 
 Begin!
 
