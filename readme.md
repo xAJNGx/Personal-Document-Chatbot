@@ -1,21 +1,9 @@
-Personal Document ChatBot User Manual
+Personal Document ChatBot
 
 Version: 1.0
 
 Date: September 22, 2024
 
-Developer: Anuj Nanda Gorkhali Shrestha
-
-
-Table of Contents
-
-- Introduction
-- System Requirements
-- Installation Guide
-- Key Features
-- Using the Chatbot
-- Troubleshooting
-- Contact Support
 
 1. Introduction
 This user manual is designed to help you use the conversational chatbot powered by the Langchain framework and integrated with a large language model (LLM). The chatbot can answer questions, retrieve information from documents, and assist with booking appointments.
@@ -112,7 +100,7 @@ Common Issues
 
 7. Contact Support
 
- If you encounter any issues or need further assistance, please contact our support team:
+ If you encounter any issues or need further assistance, please contact me:
 
  - Email: ajngworks@gmail.com
  - Phone: 9808795105
